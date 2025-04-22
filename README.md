@@ -40,13 +40,13 @@
   </div>
 </div>
 
-  <section style="padding: 20px;">
-    <h3>🔥 My Stats</h3>
-    <div>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=rizkydnz&theme=dark&background=000000" alt="GitHub Streak Stats"/>
-    </div>
+<section style="padding: 20px;">
+  <h3>🔥 My Stats</h3>
+  <div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=rizkydnz&theme=dark&background=000000" alt="GitHub Streak Stats"/>
+  </div>
     <br/>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydnz&layout=compact&theme=vision-friendly-dark" alt="Top Languages Stats"/>
-    </div>
-  </section>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydnz&layout=compact&theme=vision-friendly-dark" alt="Top Languages Stats"/>
+  </div>
+</section>
