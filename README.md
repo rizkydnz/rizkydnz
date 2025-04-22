@@ -15,5 +15,13 @@
 </div>
 </div>
 
+---
+
+### :man_technologist: About Me :
+- 🏫: I’m student at Esa Unggul University majoring in Informatics Engineering
+
+- 💻: Studying to develop my skills in various languages ​​and technologies
+
+- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge)](https://www.instagram.com/rizkydnz)
 
 
