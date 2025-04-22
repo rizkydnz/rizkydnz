@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rizky Dwi's GitHub Profile</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+
   <div id="header" align="center" style="padding: 30px;">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqOXpjbnZpYjAzaGV2Y3phbDlmNDhycGxwdDAwOGl3MWs0dzRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="500"/>
     
