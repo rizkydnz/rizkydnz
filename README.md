@@ -40,9 +40,13 @@
   </div>
 </div>
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rizkydnz&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydnz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats
+  <section style="padding: 20px;">
+    <h3>🔥 My Stats</h3>
+    <div>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=rizkydnz&theme=dark&background=000000" alt="GitHub Streak Stats"/>
+    </div>
+    <br/>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydnz&layout=compact&theme=vision-friendly-dark" alt="Top Languages Stats"/>
+    </div>
+  </section>
