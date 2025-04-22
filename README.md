@@ -17,7 +17,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### 🚀: About Me :
 - 🏫: I’m student at Esa Unggul University majoring in Informatics Engineering
 
 - 💻: Studying to develop my skills in various languages ​​and technologies
