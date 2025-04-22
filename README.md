@@ -22,6 +22,6 @@
 
 - 💻: Studying to develop my skills in various languages ​​and technologies
 
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rizkydnz)
+- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rizkydnz)
 
 
