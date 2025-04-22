@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqOXpjbnZpYjAzaGV2Y3phbDlmNDhycGxwdDAwOGl3MWs0dzRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="500"/>
 
-  <div style="text-align: center;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&width=435&lines=HI%2C+I'm+Rizky+Dwi;Welcome+to...;...My+Github" alt="Typing SVG"/>
-    </a>
-  </div>
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com font=Roboto+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi..+I'm+Rizky;Welcome+to..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/rizky-dwi-ba77702a2/">
