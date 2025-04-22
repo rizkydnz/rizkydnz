@@ -2,14 +2,13 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqOXpjbnZpYjAzaGV2Y3phbDlmNDhycGxwdDAwOGl3MWs0dzRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="500"/>
   
 <div id="badges">
-  <h2 class="section-heading">🌐 Let's Connect with Me
+  <h2 class="section-heading">🌐 Let's Connect with Me</h2>
   <a href="https://www.linkedin.com/in/rizky-dwi-ba77702a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/rizkydnz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  </h2>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=rizkydnz&style=flat-square&color=blue" alt="Profile views"/>
 </div>
