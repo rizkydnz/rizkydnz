@@ -43,5 +43,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=rizkydnz&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizkydnz&theme=dark)](https://git.io/streak-stats)
 
