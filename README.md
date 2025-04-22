@@ -11,3 +11,4 @@
   </a>
 </div>
 
+[GitHub Profile Views Counter]: https://github.com/rizkydnz/github-profile-views-counter
