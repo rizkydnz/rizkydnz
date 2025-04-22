@@ -12,9 +12,7 @@
   <a href="https://www.instagram.com/rizkydnz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=rizkydnz&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+
 </div>
 </div>
 
