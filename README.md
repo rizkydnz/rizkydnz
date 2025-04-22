@@ -15,30 +15,36 @@
 </div>
 </div>
 
----
+<section style="padding: 20px;">
+  <h3>🚀 About Me</h3>
+  <ul>
+    <li>🏫 I’m a student at Esa Unggul University majoring in Informatics Engineering</li>
+    <li>💻 Studying to develop my skills in various languages ​​and technologies</li>
+    <li>📬 How to reach me:
+      <a href="https://www.instagram.com/rizkydnz">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+      </a>
+    </li>
+  </ul>
+</section>
 
-### 🚀: About Me :
-- 🏫: I’m student at Esa Unggul University majoring in Informatics Engineering
+<hr/>
 
-- 💻: Studying to develop my skills in various languages ​​and technologies
-
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rizkydnz)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<section style="padding: 20px;">
+  <h3>🛠️ Languages and Tools</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   </div>
-</div>
+</section>
+
+<hr/>
 
 <section style="padding: 20px;">
   <h3>🔥 My Stats</h3>
