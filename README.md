@@ -12,6 +12,7 @@
 </div>
 
 
-<div id="badges>
-  <img src="https://komarev.com/ghpvc/?username=rizkydnz&style=flat-square&color=blue" alt=""/>
-  </div>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=rizkydnz&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
