@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqOXpjbnZpYjAzaGV2Y3phbDlmNDhycGxwdDAwOGl3MWs0dzRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="500"/>
 
 <h1>
-  <a href="" class="typewrite" data-period="2000" data-type='[ "Hi, Im Rizky Dwi", "Welcome to", "My Github"]'>
+  <a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" class="typewrite" data-period="2000" data-type='[ "Hi, Im Rizky Dwi", "Welcome to", "My Github"]'>
     <span class="wrap"></span>
   </a>
 </h1
