@@ -1,11 +1,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdqOXpjbnZpYjAzaGV2Y3phbDlmNDhycGxwdDAwOGl3MWs0dzRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="500"/>
 
-<h1>
-  <a href="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" class="typewrite" data-period="2000" data-type='[ "Hi, Im Rizky Dwi", "Welcome to", "My Github"]'>
-    <span class="wrap"></span>
-  </a>
-</h1
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&width=435&lines=HI%2C+I'm+Rizky+Dwi;Welcome+to...;...My+Github)](https://git.io/typing-svg)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rizky-dwi-ba77702a2/">
