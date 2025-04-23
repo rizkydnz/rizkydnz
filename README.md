@@ -6,9 +6,6 @@
 </div>
   
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rizky-dwi-ba77702a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.instagram.com/rizkydnz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
